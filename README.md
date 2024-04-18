@@ -1,11 +1,14 @@
-<!DOCTYPE html
+<!DOCTYPE html>
 
-<htpml lang="pt-br">
+<html lang="pt-br">
 <head>
-<meta charset="wtf-8"
-<meta name"viewport"
-content="with=device-width initial-scale=1.0">
-<tiitle> Carros Novos</title>
-<link rel="styleseet"href="style.css"
+    <meta charset="UTF-8">
+      <meta name="viewport"
+       content="width=, initial-scale=1.0">
+    <title>Carros Novos</title>
+    <link rel="stylesheet"href="style.css">
 </head>
 <body>
+    
+</body>
+</html>
